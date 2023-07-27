@@ -60,6 +60,7 @@ an `ERD` and a `table schema`. The CSV file data will be uploaded into a Postgre
     * category / subcategory : Contains only the category / subcategory **titles**.
 
     * They should look like the following:  
+       
     **CATEGORY: SHOULD HAVE 9 ROWS**  
       
       |   | category_id | category  |
@@ -68,7 +69,7 @@ an `ERD` and a `table schema`. The CSV file data will be uploaded into a Postgre
       |1  | cat2        | music     |
       |2  | cat3        | technology|
 
-   **SUBCATEGORY: SHOULD HAVE 29 ROWS**
+     **SUBCATEGORY: SHOULD HAVE 29 ROWS**
 
       |   | subcategory_id | subcategory |
       |:-:|:--------------:|:-----------:|
