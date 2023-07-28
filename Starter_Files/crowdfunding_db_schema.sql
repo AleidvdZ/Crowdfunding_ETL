@@ -20,9 +20,9 @@ CREATE TABLE campaign (
 	end_date date NOT NULL,
 	catergory_id varchar(15) NOT NULL,
 	subcategory_id varchar(15) NOT NULL
-		Foreign Key (contact_id) refernces contacts(contact_id),
-		Foreign Key (category_id) refernces category(category_id),
-		Foreign Key (subcategory_id) refernces subcategory(subcategory_id)		
+		Foreign Key (contact_id) references contacts(contact_id),
+		Foreign Key (category_id) references category(category_id),
+		Foreign Key (subcategory_id) references subcategory(subcategory_id)		
 );
 
 CREATE TABLE category (
