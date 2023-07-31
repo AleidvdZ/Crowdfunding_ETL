@@ -46,6 +46,8 @@ an `ERD` and a `table schema`. The CSV file data will be uploaded into a Postgre
 
 * Create the Contacts DataFrame - A. van der Zel
 
+0731 update - team members had their portions completed Thursday 0727 with a few individual updates before today. Database completed 0731.
+
 ---
 
 ## Usage
@@ -80,7 +82,7 @@ an `ERD` and a `table schema`. The CSV file data will be uploaded into a Postgre
 ---
 
 ### Links used
-
+Previous class examples were used to complete this Project.
 
 ### Examples
 
@@ -91,5 +93,3 @@ an `ERD` and a `table schema`. The CSV file data will be uploaded into a Postgre
 * Garrett Steenwyk
  
 * Aleid van der Zel
-
-* Support: 
