@@ -34,3 +34,11 @@ CREATE TABLE campaign (
 		Foreign Key (category_id) references category(category_id),
 		Foreign Key (subcategory_id) references subcategory(subcategory_id)		
 );
+
+SELECT * from contacts;
+
+SELECT * from category;
+
+SELECT * from subcategory;
+
+SELECT * from campaign;
